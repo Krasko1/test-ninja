@@ -1,2 +1,6 @@
 db.lock
 storage.*
+*.csproj
+*.tmp
+*.ide
+*.ide-wal
